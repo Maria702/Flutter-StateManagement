@@ -2,8 +2,11 @@
 
 GetX is a Flutter package that makes:
   -State management
+  
   -Navigation
+  
   -Dependency injection
+  
 much easier and cleaner.
 
 # Three pillars of GetX
@@ -12,4 +15,4 @@ much easier and cleaner.
  
  -Route Management (Navigation)   :Navigate without context
  
-  -Dependency Injection (DI)   :Manage controllers/services
+ -Dependency Injection (DI)   :Manage controllers/services
